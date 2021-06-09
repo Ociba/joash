@@ -2152,12 +2152,12 @@ thead th.first { padding-left: 0 !important; }
 .main-demo .demo-box .counter-number span {font-size: 40px; vertical-align: top; display: inline-block; line-height: 60px;}
 .main-demo .demo-box .title {font-size: 50px; line-height: 52px; letter-spacing: -1px;}
 
-.buy-theme {position:fixed; top:125px; border-radius: 4px; right: -151px; background: url("../images/buy-theme.png") no-repeat 14px center rgba(50,50,50,.8); z-index: 10}
+.buy-theme {position:fixed; top:125px; border-radius: 4px; right: -151px; background: url("../images/buy-theme.pn") no-repeat 14px; z-index: 10}
 .buy-theme:hover, .quick-question:hover {right: -26px}
 .buy-theme span, .quick-question span {padding:0 28px; position: relative; top:0; opacity: 0}
 .buy-theme:hover span, .quick-question:hover span {opacity: 1}
 .buy-theme a, .quick-question a { color: #fff; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding:8px 15px; display: block }
-.quick-question {position:fixed; top:175px; border-radius: 4px; right: -153px; background: url("../images/quick-question.png") no-repeat 14px center rgba(50,50,50,.8); z-index: 10}
+.quick-question {position:fixed; top:175px; border-radius: 4px; right: -153px; background: url("../images/quick-question.") no-repeat 14px; z-index: 10}
 
 /* onepage agency option 2 */
 .short-history .fill {top: 0;}
